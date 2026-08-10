@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/0013-roman-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -330,12 +332,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
