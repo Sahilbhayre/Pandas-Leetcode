@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2029-stone-game-ix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1927-sum-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sahilbhayre/Pandas-Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
